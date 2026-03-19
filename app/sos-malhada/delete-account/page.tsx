@@ -2,20 +2,20 @@ export default function Page() {
   return (
     <div className="p-10 font-sans leading-relaxed">
       <h1 className="text-3xl font-bold mb-6">
-        Exclusão de Conta - SSO Malhada
+        Exclusão de Conta - SOS Malhada
       </h1>
       <p className="mb-4">
-        Esta página explica como você pode excluir sua conta no aplicativo <strong>SSO Malhada</strong>.
-        O <strong>SSO Malhada</strong> permite que os usuários excluam suas contas diretamente pelo aplicativo.
+        Esta página explica como você pode excluir sua conta no aplicativo <strong>SOS Malhada</strong>.
+        O <strong>SOS Malhada</strong> permite que os usuários excluam suas contas diretamente pelo aplicativo.
       </p>
       <h2 className="text-xl font-semibold mt-6 mb-2">
         Como excluir sua conta
       </h2>
       <p className="mb-4">
-        Para excluir sua conta do <strong>SSO Malhada</strong>, siga os passos abaixo:
+        Para excluir sua conta do <strong>SOS Malhada</strong>, siga os paSOSs abaixo:
       </p>
       <ol className="list-decimal ml-6 mb-4">
-        <li>Abra o aplicativo SSO Malhada.</li>
+        <li>Abra o aplicativo SOS Malhada.</li>
         <li>Vá até a aba <strong>Perfil</strong>.</li>
         <li>Localize a opção <strong>Excluir Conta</strong>.</li>
         <li>Confirme a exclusão da conta.</li>
@@ -24,7 +24,7 @@ export default function Page() {
         O que acontece após a exclusão
       </h2>
       <p className="mb-4">
-        Após confirmar a exclusão, sua conta e os dados associados serão removidos do aplicativo.
+        Após confirmar a exclusão, sua conta e os dados aSOSciados serão removidos do aplicativo.
         Algumas informações podem ser mantidas temporariamente apenas quando necessário para
         cumprir obrigações legais ou melhorar a segurança do serviço.
       </p>

@@ -4,14 +4,14 @@ const App = () => {
   return (
     <div className="p-10 font-sans leading-relaxed">
       <h1 className="text-3xl font-bold mb-6">
-        Política de Privacidade - SSO Malhada
+        Política de Privacidade - SOS Malhada
       </h1>
       <p className="mb-4">
-        Esta Política de Privacidade descreve como o aplicativo <strong>SSO Malhada</strong> coleta, usa, compartilha e protege as informações dos usuários. O <strong>SSO Malhada</strong> é um sistema de monitoramento de cheias e alertas para a cidade de Malhada e região. Ao utilizar nosso aplicativo, você concorda com a coleta e o uso de informações conforme descrito nesta política.
+        Esta Política de Privacidade descreve como o aplicativo <strong>SOS Malhada</strong> coleta, usa, compartilha e protege as informações dos usuários. O <strong>SOS Malhada</strong> é um sistema de monitoramento de cheias e alertas para a cidade de Malhada e região. Ao utilizar noSOS aplicativo, você concorda com a coleta e o uso de informações conforme descrito nesta política.
       </p>
       <h2 className="text-xl font-semibold mt-6 mb-2">Informações Coletadas</h2>
       <p className="mb-4">
-        O aplicativo <strong>SSO Malhada</strong> pode coletar algumas informações pessoais fornecidas diretamente pelos usuários, como nome e endereço de e-mail. Essas informações podem ser utilizadas para identificação da conta, envio de notificações de alerta e suporte ao usuário.
+        O aplicativo <strong>SOS Malhada</strong> pode coletar algumas informações peSOSais fornecidas diretamente pelos usuários, como nome e endereço de e-mail. Essas informações podem ser utilizadas para identificação da conta, envio de notificações de alerta e suporte ao usuário.
       </p>
       <h2 className="text-xl font-semibold mt-6 mb-2">Uso das Informações</h2>
       <p className="mb-4">
@@ -19,7 +19,7 @@ const App = () => {
       </p>
       <h2 className="text-xl font-semibold mt-6 mb-2">Dados de Monitoramento</h2>
       <p className="mb-4">
-        O <strong>SSO Malhada</strong> coleta e processa dados ambientais como nível do rio, volume de chuva e condições climáticas. Esses dados são utilizados exclusivamente para fins de monitoramento, geração de alertas e exibição de informações aos usuários. Nenhum dado ambiental é vinculado à identidade pessoal do usuário.
+        O <strong>SOS Malhada</strong> coleta e processa dados ambientais como nível do rio, volume de chuva e condições climáticas. Esses dados são utilizados exclusivamente para fins de monitoramento, geração de alertas e exibição de informações aos usuários. Nenhum dado ambiental é vinculado à identidade peSOSal do usuário.
       </p>
       <h2 className="text-xl font-semibold mt-6 mb-2">Notificações</h2>
       <p className="mb-4">
@@ -27,13 +27,13 @@ const App = () => {
       </p>
       <h2 className="text-xl font-semibold mt-6 mb-2">Segurança</h2>
       <p className="mb-4">
-        O <strong>SSO Malhada</strong> adota medidas razoáveis de segurança para proteger as informações fornecidas pelos usuários. No entanto, nenhum método de armazenamento ou transmissão de dados é totalmente seguro.
+        O <strong>SOS Malhada</strong> adota medidas razoáveis de segurança para proteger as informações fornecidas pelos usuários. No entanto, nenhum método de armazenamento ou transmissão de dados é totalmente seguro.
       </p>
       <h2 className="text-xl font-semibold mt-6 mb-2">
         Alterações nesta Política de Privacidade
       </h2>
       <p className="mb-4">
-        O <strong>SSO Malhada</strong> pode atualizar esta Política de Privacidade periodicamente. Recomendamos que os usuários revisem esta página regularmente para se manterem informados sobre quaisquer alterações.
+        O <strong>SOS Malhada</strong> pode atualizar esta Política de Privacidade periodicamente. Recomendamos que os usuários revisem esta página regularmente para se manterem informados sobre quaisquer alterações.
       </p>
       <h2 className="text-xl font-semibold mt-6 mb-2">Contate-Nos</h2>
       <p>
